@@ -6,5 +6,4 @@ This project is inspired by
 An Android-system-like stop watch.
 Fully functioned as the system app.
 
-
-
+a
